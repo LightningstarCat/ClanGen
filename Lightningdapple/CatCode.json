@@ -41,7 +41,7 @@
     "pelt_length": "short",
     "sprite_kitten": 0,
     "sprite_adolescent": 3,
-    "sprite_adult": 6,
+    "sprite_adult": 7,
     "sprite_senior": 13,
     "sprite_para_adult": 8,
     "eye_colour": "YELLOW",
@@ -60,14 +60,14 @@
     "skill_dict": {
         "primary": "CLEVER,29,False",
         "secondary": "RUNNER,29,False",
-        "hidden": "LORE,29,False"
+        "hidden": null
     },
     "scars": [
         "SNOUT",
         "SNAKETWO",
         "CATBITE"
     ],
-    "accessory": "MAPLE LEAF",
+    "accessory": "OAK LEAVES",
     "experience": 321,
     "dead_moons": 0,
     "current_apprentice": [
