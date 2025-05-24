@@ -1,6 +1,6 @@
 import json
 import random
-with open("FacetRanges.json","r") as file:
+with open("FacetCalculator/FacetRanges.json","r") as file:
     full = json.load(file)
 
 global kitshort
